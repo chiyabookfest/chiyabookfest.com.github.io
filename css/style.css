@@ -531,8 +531,10 @@
 		input[type="submit"].special,
 		input[type="reset"].special,
 		.button.special {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #7490c3;
+			border-color: #7490c3;
+			/*background: #83d3c9;
+			border-color: #83d3c9;*/
 			color: white !important;
 		}
 
@@ -540,8 +542,10 @@
 			input[type="submit"].special:hover,
 			input[type="reset"].special:hover,
 			.button.special:hover {
-				background: #96dad1 !important;
-				border-color: #96dad1 !important;
+				background: #8fa6cf !important;
+				border-color: #8fa6cf !important;
+				/*background: #96dad1 !important;
+				border-color: #96dad1 !important;*/
 			}
 
 		input[type="button"].fit,
