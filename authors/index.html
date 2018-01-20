@@ -7,4 +7,30 @@ layout: default
         <span class="icon fa-user"></span>
         <h2>Authors</h2>
     </header>
+
+    <section class="wrapper style3 container special">
+      {% for author in site.authors %}
+        {% capture modulo %}{{ forloop.index0 | mod:4 }}{% endcapture %}
+        {% if modulo == '0' or forloop.first %}
+      <div class="row">
+        {% endif %}
+        <div class="3u">
+          <section>
+            <a class="image featured" target="_blank" href="{% if author.website %}{{ author.website }}{% else %}#{% endif %}">
+            <img src="images/{{ author.picture }}" alt="{{ author.name }}" /></a>
+            <header>
+              <h3>
+                {% if author.website %}<a target="_blank" href="{{ author.website }}">{% endif %}
+                {{ author.name }}
+                {% if author.website %}</a>{% endif %}
+              </h3>
+            </header>
+            <!-- <p>{{ author.content | markdownify }}</p> -->
+          </section>
+        </div>
+        {% if modulo == '3' or forloop.last %}
+      </div>
+        {% endif %}
+      {% endfor %}
+    </section>
 </article>

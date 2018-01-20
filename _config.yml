@@ -12,3 +12,6 @@ github_username:  chiyabookfest
 
 # Build settings
 markdown: kramdown
+
+collections:
+- authors
