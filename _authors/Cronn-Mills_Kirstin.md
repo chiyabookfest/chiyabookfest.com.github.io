@@ -1,5 +1,5 @@
 ---
-name:  "Kristin Cronn-Mills"
+name:  "Kirstin Cronn-Mills"
 website: http://kirstincronn-mills.com
-picture: kristincronnmills.jpg
+picture: kirstincronnmills.jpg
 ---
