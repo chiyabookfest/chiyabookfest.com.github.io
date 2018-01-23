@@ -1,5 +1,5 @@
 ---
-name:  "Audry Coulthurst"
+name:  "Audrey Coulthurst"
 website: http://audreycoulthurst.com
-picture: audrycoulthurst.jpg
+picture: audreycoulthurst.jpg
 ---
