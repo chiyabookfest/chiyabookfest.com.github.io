@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Makes A Great Book Ted Goeglein?"
+title:  "Ted Goeglein On What Makes A Great Book"
 author: Ted Goeglein
 date:   2017-12-31 12:00:00
 ---

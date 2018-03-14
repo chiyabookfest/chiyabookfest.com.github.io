@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Makes A Great Book Julia Ember?"
+title:  "Julia Ember On What Makes A Great Book"
 author: Julia Ember
 date:   2018-03-08 12:00:00
 ---
