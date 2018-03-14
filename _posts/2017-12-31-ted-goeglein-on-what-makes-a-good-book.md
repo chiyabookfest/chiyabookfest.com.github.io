@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Everything"
+title:  "What Makes A Great Book Ted Goeglein?"
 author: Ted Goeglein
 date:   2017-12-31 12:00:00
 ---
+**Everything**
+
 A great book is about everything.
 
 I came up with that thought myself and also picked it up somewhere, and then changed it a little or maybe more than a little, maybe a lot, until it was not completely unfamiliar but also completely new.
