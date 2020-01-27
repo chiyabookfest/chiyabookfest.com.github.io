@@ -1,6 +1,6 @@
 ---
 name:  "James Klise"
-website: http://www.jamesklise.com
+website: http://www.jamesklise.com/
 picture: jamesklise.jpg
-twitter: JamesKlise
 ---
+The author of *The Art of Secrets*.
