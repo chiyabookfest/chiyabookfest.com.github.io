@@ -1,6 +1,6 @@
 ---
 name:  "Rena Barron"
 website: http://renabarron.com/
-picture: book.jpg
+picture: RenaBarron.jpg
 ---
 The author of *Kingdom of Souls*.
