@@ -1,6 +1,6 @@
 ---
 name:  "Melanie Weiss"
 website: https://www.melanie-weiss.com/
-picture: book.jpg
+picture: MelanieWeiss.jpg
 ---
 The author of *Spoken*.

@@ -1,6 +1,6 @@
 ---
 name:  "Mimi Yu"
 website: http://www.mimiyu.info/
-picture: book.jpg
+picture: mimiyu.jpg
 ---
 The author of *The Girl King*.

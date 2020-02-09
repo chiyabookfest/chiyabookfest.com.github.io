@@ -1,6 +1,6 @@
 ---
 name:  "Robin Carnilius"
 website: http://carnilius.com/
-picture: book.jpg
+picture: RobinCarnilius.jpg
 ---
 The author of *Camp Cutlery*.

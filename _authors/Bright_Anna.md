@@ -1,6 +1,6 @@
 ---
 name:  "Anna Bright"
 website: https://www.annabrightbooks.com/
-picture: book.jpg
+picture: AnnaBright.jpg
 ---
 The author of *The Beholder*.
